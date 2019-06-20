@@ -7,7 +7,7 @@ package tablerodamas;
 
 /**
  *
- * @author JOSELIN CARPIO
+ * @author USUARIO
  */
 public class cuadradosYcubos {
 

@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author JOSELIN CARPIO
+ * @author USUARIO
  */
 public class separacion_de_digitos {
 
